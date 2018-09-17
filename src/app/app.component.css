@@ -1,0 +1,23 @@
+.header {
+  text-align:center;
+  border-bottom: 2px solid #E18931;
+  padding: 1em 1em;
+  background-color: #F7F6F5;
+}
+
+h1 {
+  color: #E18931;
+}
+
+input {
+  border: 1.5px solid #E18931;
+}
+
+ul {
+  padding-bottom: 1em;
+  border-bottom: 2px solid #E18931;
+}
+
+.center {
+  text-align: center;
+}
